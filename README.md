@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Zachern
+- 🏫 I Am A High School Student
 - 👀 I’m interested in python programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
