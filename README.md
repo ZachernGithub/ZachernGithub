@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zachern
 - 🏫 I Am A High School Student
-- 👀 I’m interested in python programming 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
